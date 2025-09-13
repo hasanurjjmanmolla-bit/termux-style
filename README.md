@@ -4,7 +4,7 @@
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
 [patreon]: https://www.patreon.com/adi1090x
 
-**`LAST Updated`** : `August 2023`
+**`LAST Updated`** : `August 2025`
 
 > Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
 
@@ -108,10 +108,15 @@ $ termux-style
 |![img](images/url.gif)|![img](images/local.gif)|
 
 |Install|Uninstall|
-|--|--|
+|--|--|<img width="1024" height="1536" alt="1000007533" src="https://github.com/user-attachments/assets/6383fab8-7c7a-4f66-a96c-a5f0d11f9380" />
+
 |![img](images/install.gif)|![img](images/uninstall.png)|
 
 ### FYI
 - An `uninstall` script is also added, in case you want to remove this program.
 - Again... If you can improve it, sure...
-- Have fun!
+- Have more
+-
+- ![1000007761](https://github.com/user-attachments/assets/9c39d183
+- -dbcc-430c-919c-0189af0d579e)
+fun!
